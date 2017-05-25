@@ -3,7 +3,7 @@
 This is a different implementation of ImRaptor's script.
 
 It uses Splunk's Python SDK export function instead of oneshot.  Export has the benefit of avoiding pagination issues.
-Recommend using nohup to run in background: nohup python SplukToGray.py > nohup_SplunkToGray.out 2>&1&
+Recommend using nohup to run in background: nohup python SplunkToGray.py > nohup_SplunkToGray.out 2>&1&
 
 
 
